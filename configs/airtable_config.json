@@ -1,0 +1,7 @@
+{
+    "Career Mode": {
+        "cmTableName": "Career Mode Pilots",
+        "callsignColumnName": "Callsign",
+        "flightlinesColumnName": "Assigned Routes"
+    }
+}

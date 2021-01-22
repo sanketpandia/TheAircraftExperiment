@@ -1,0 +1,12 @@
+{
+    "botPrefix": ">",
+    "links":{
+        "PIREP": "https://airtable.com/shru5XYHBMx1rnvVA",
+        "CM_PIREP": "https://airtable.com/shrYTRklbSY8L5pYI",
+        "CREW": "Enter crew centre URL"
+    },
+    "learn": {
+        "METAR": "https://1drv.ms/b/s!AhDpGlu1NeuigQMsPxUEZhgrQPTU?e=udAQqG",
+        "CHECKLISTS": "https://1drv.ms/b/s!AhDpGlu1NeuigQUQIRHeuwy7ydOm?e=hgqO7K"
+    }
+}

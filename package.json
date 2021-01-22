@@ -1,0 +1,16 @@
+{
+  "name": "the-airplane-experiment",
+  "version": "1.0.0",
+  "description": "An attempt to create an organised and sophisticated bot that connects airtable and discord for Infinite Flight",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanketpandia",
+  "license": "MIT",
+  "dependencies": {
+    "airtable": "^0.10.1",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
